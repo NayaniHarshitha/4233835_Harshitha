@@ -4,7 +4,10 @@ int main(){
   int a=0;
 int fromremote=0;
 int b=0;
+<<<<<<< HEAD
  // this is from Dev Branch
+=======
+>>>>>>> 1e5434e46b2e77652258638695348b2b409fcb37
 double d=0.0;
 }
 
